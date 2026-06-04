@@ -2,7 +2,7 @@
 
 <div style="display:flex" >
 	
-<img align="right" style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/94763461?v=4" height=128 width=128>
+<img align="right" style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/170023830?v=4" height=128 width=128>
 
 <p align="left">
 
@@ -36,7 +36,7 @@ Como programador, me encanta resolver problemas y crear cosas nuevas.
 ## Estadísticas 💻
 
 <a href="https://twitter.com/themurft" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/780277567537414165" />
+    <img src="https://lanyard.cnrad.dev/api/1085016217456222279" />
 </a>
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/themurft?cardType=github&theme=tokyonight&preferLogin=true" alt="https://git.io/awesome-stats-card" height=256 width=470 />
