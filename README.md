@@ -1,5 +1,4 @@
-# Hi there, I'm TheMurft! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
+# Hi there, I'm TheMurft! 👋
 <div>
 
 <img align="right" style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/170023830?v=4" height="128" width="128">
