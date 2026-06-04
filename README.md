@@ -22,7 +22,7 @@ Como programador, me encanta resolver problemas y crear cosas nuevas.
 ## Tecnologías que conozco 💻
 
 
-![Mis Habilidades](https://skillicons.dev/icons?i=py,js,html,css,git,github&perline=8)
+![Mis Habilidades](https://skillicons.dev/icons?i=py,js,html,css,linux,github,pterodactyl&perline=8)
 
 
 	
@@ -34,10 +34,6 @@ Como programador, me encanta resolver problemas y crear cosas nuevas.
 
 
 ## Estadísticas 💻
-
-<a href="https://twitter.com/themurft" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1085016217456222279" />
-</a>
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/themurft?cardType=github&theme=tokyonight&preferLogin=true" alt="https://git.io/awesome-stats-card" height=256 width=470 />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=themurft&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
