@@ -39,10 +39,6 @@ I also enjoy creating projects, automating tasks, managing servers, and sharing 
 
 <br>
 
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=themurft&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</a>
-
 ## Favorite Quote ✨
 
 ```python
